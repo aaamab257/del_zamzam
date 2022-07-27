@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684079263336",
+    "project_id": "zamzam-delivery",
+    "storage_bucket": "zamzam-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684079263336:android:3c1a69e64c5d10b26d15dd",
+        "android_client_info": {
+          "package_name": "com.stop4web.zamzam_delivery_boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684079263336-5kihqncgrf6l84aqul0tod9g7f5tsk02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCga13VSQC0rM8wQnYkwhHHyPqIXlBmoNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684079263336-5kihqncgrf6l84aqul0tod9g7f5tsk02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
